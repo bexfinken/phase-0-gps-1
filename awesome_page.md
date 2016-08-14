@@ -2,6 +2,12 @@
 
 ##How about a list?##
 
+_I like italics_
+
+They're very **bold**.
+
+##Here's your list##
+
 * this
 * is
 * an
