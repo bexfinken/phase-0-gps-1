@@ -2,11 +2,17 @@
 
 ##How about a list?##
 
+_I like italics_
+
+They're very **bold**.
+
+##Here's your list##
+
 * this
 * is
 * an
-* unordered
-* list
+* attemt to make a
+* _small confict_
 
 #_TA-DA!_#
 
